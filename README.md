@@ -35,3 +35,4 @@ Persistent daily reward system using server timestamps and saved player data.
 ## Contact
 
 GitHub: [Evevemue](https://github.com/Evevemue)
+Discord: evevemue

@@ -32,6 +32,10 @@ Server-authoritative combat system with abilities, cooldowns, damage, and range 
 
 Persistent daily reward system using server timestamps and saved player data.
 
+### [Upgrade System](https://github.com/Evevemue/Upgrade-System)
+
+Server-authoritative upgrade system with correct validation. Part of a "larger" game I am creating.
+
 ## Contact
 
 GitHub: [Evevemue](https://github.com/Evevemue)

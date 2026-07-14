@@ -1,6 +1,26 @@
 # Roblox Systems Portfolio
 
-A collection of server-authoritative Roblox systems written in Luau.
+Hi, I'm **Damian**, also known as **Evevemue** — a Roblox developer based in Poland.
+
+I have been working with Roblox Studio for around **5 years**, with some breaks. I focus on writing clean, modular, and server-authoritative systems in Luau.
+
+## Tech Stack
+
+- Roblox Studio
+- Luau
+- Rojo
+- Rokit
+- VS Code
+- Git and GitHub
+- Wally
+
+I also work with libraries and wrappers such as:
+
+- DataService
+- Networker
+- Janitor
+
+I care about secure Client-Server communication, readable architecture, reusable modules, and code that can be expanded without becoming difficult to maintain.
 
 ## Projects
 
@@ -8,12 +28,10 @@ A collection of server-authoritative Roblox systems written in Luau.
 
 Server-authoritative combat system with abilities, cooldowns, damage, and range validation.
 
-**Technologies:** Luau, Roblox Studio, Rojo, Networker
-
----
-
 ### [Daily Reward System](https://github.com/Evevemue/Roblox-Daily-Reward-System)
 
 Persistent daily reward system using server timestamps and saved player data.
 
-**Technologies:** Luau, Roblox Studio, Rojo, DataService
+## Contact
+
+GitHub: [Evevemue](https://github.com/Evevemue)
